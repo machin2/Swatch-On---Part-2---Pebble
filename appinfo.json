@@ -1,0 +1,30 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "quintard@ece.fr",
+    "longName": "Swatch'On",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/11077948_10206130910172202_1768923876_n.jpg.png",
+                "menuIcon": true,
+                "name": "Logo",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Swatch'On",
+    "uuid": "575bb440-09f4-42b3-be82-e5b812b6b6ff",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
